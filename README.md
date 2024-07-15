@@ -20,27 +20,31 @@ I make reasoned decisions that prioritize user experience, creating both aesthet
 </ul>
 
 <h2>Skills</h2>
-- HTML, CSS, JS, Liquid
-- Libraries: jQuery, Bootstrap
-- Version Control: Git, GitHub
-- Good Coding Practices
-- Responsive Design
-- Flexbox 
-- Accessibility
-- UX/UI Design Principles
-- Web Optimization
-- Cross-Browser Compatibility
-- SEO Techniques
+<ul>
+  <li> HTML, CSS, JS, Liquid</li>
+  <li> Libraries: jQuery, Bootstrap</li>
+  <li> Version Control: Git, GitHub</li>
+  <li> Good Coding Practices</li>
+  <li> Responsive Design</li>
+  <li> Flexbox </li>
+  <li> Accessibility</li>
+  <li> UX/UI Design Principles</li>
+  <li> Web Optimization</li>
+  <li> Cross-Browser Compatibility</li>
+  <li> SEO Techniques</li>
+</ul>
 
 <h2>Soft Skills</h2>
-- Effective Communication
-- Team Player
-- Continuous Learning
-- Problem Solving
-- Adaptability
-- Attention to Detail
-- Resilience
-- Determination
+<ul>
+  <li>Effective Communication</li>
+  <li>Team Player</li>
+  <li> Continuous Learning</li>
+  <li>Problem Solving</li>
+  <li>Adaptability</li>
+  <li>Attention to Detail</li>
+  <li>Resilience</li>
+  <li>Determination</li>
+</ul>
 
 <h2>Keywords</h2>
 - HTML
